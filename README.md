@@ -15,4 +15,4 @@ I searched about "Cubic Equation" topic and used exists source and code to imple
 
 [![Cubic Equation Calculator](demo.jpg)](https://basemax.github.io/CubicEquationCalculator/cubic.html)
 
-**Demo:** https://basemax.github.io/CubicEquationCalculator/cubic.html
+
